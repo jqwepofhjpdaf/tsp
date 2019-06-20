@@ -1,0 +1,89 @@
+* cdd+: Double Description Method in C++:Version 0.77(August 19, 2003)
+* Copyright (C) 1999, Komei Fukuda, fukuda@ifor.math.ethz.ch
+* Compiled for Rational Exact Arithmetic with GMP
+*Input File:twopm3.ine(90x10)
+*HyperplaneOrder: LexMin
+*Degeneracy preknowledge for computation: None (possible degeneracy)
+*Vertex/Ray enumeration is chosen.
+*Output adjacency file is requested.
+*Computation starts     at Wed Jun 19 18:00:26 2019
+*            terminates at Wed Jun 19 18:00:28 2019
+*Total processor time = 2 seconds
+*                     = 0h 0m 2s
+*FINAL RESULT:
+*Number of Vertices =70, Rays =0
+V-representation
+begin
+70  10  rational
+ 1 0 0 1 0 1 0 1 1 0
+ 1 0 1 0 1 1 0 0 1 0
+ 1 0 1 0 0 1 1 0 1 0
+ 1 0 1 1 0 1 0 0 1 0
+ 1 0 0 0 0 1 0 0 1 1
+ 1 0 1 0 1 0 0 0 1 1
+ 1 0 0 1 1 1 0 0 1 0
+ 1 0 0 1 1 1 0 0 0 1
+ 1 1 0 0 0 1 0 0 1 1
+ 1 1 0 1 1 0 0 0 0 1
+ 1 0 0 0 1 0 0 0 1 1
+ 1 1 0 0 1 1 0 0 0 1
+ 1 1 0 0 1 0 1 0 0 1
+ 1 1 1 0 1 0 0 0 0 1
+ 1 0 0 0 1 0 0 1 0 1
+ 1 0 0 1 0 0 0 1 1 0
+ 1 0 1 1 1 0 0 0 1 0
+ 1 0 1 1 1 0 0 1 0 0
+ 1 0 1 0 0 0 0 1 1 0
+ 1 1 0 0 0 0 0 1 0 1
+ 1 0 0 0 0 0 0 1 1 1
+ 1 0 0 1 0 1 0 0 1 0
+ 1 0 1 0 0 0 1 1 0 0
+ 1 0 0 1 0 1 0 1 0 0
+ 1 0 1 0 0 0 1 0 1 0
+ 1 1 0 0 0 0 1 1 0 0
+ 1 0 0 1 1 0 0 1 0 0
+ 1 0 0 1 0 0 1 1 0 0
+ 1 1 0 0 0 0 1 0 0 1
+ 1 1 0 0 1 0 0 0 0 1
+ 1 0 1 0 0 1 0 0 1 0
+ 1 1 0 0 0 1 0 0 0 1
+ 1 0 1 0 1 0 0 0 1 0
+ 1 1 0 0 0 1 0 0 1 0
+ 1 0 1 0 1 0 0 0 0 1
+ 1 0 0 1 1 0 0 0 0 1
+ 1 0 1 1 1 0 0 0 0 1
+ 1 1 0 1 0 1 0 0 1 0
+ 1 1 1 0 0 0 1 1 0 0
+ 1 1 0 1 0 1 1 0 0 0
+ 1 0 1 1 1 0 1 0 0 0
+ 1 0 1 1 1 1 0 0 0 0
+ 1 1 1 0 0 1 1 0 0 0
+ 1 1 0 1 1 1 0 0 0 0
+ 1 1 1 0 1 0 1 0 0 0
+ 1 1 0 0 0 1 1 0 0 1
+ 1 0 1 0 1 0 1 0 1 0
+ 1 0 0 1 1 1 0 1 0 0
+ 1 1 0 0 0 0 0 0 1 1
+ 1 1 1 0 0 0 1 0 0 1
+ 1 1 1 0 0 0 1 0 1 0
+ 1 0 1 0 0 0 0 0 1 1
+ 1 0 0 1 0 0 0 1 0 1
+ 1 1 0 1 0 1 0 0 0 1
+ 1 1 0 1 0 1 0 1 0 0
+ 1 1 1 0 0 1 0 0 1 0
+ 1 0 0 0 0 1 0 1 1 0
+ 1 1 0 0 0 1 1 0 1 0
+ 1 1 0 0 0 1 1 1 0 0
+ 1 1 0 1 0 0 1 1 0 0
+ 1 0 0 0 0 0 1 1 1 0
+ 1 1 0 0 0 0 1 1 0 1
+ 1 0 0 1 1 0 1 1 0 0
+ 1 0 0 1 0 1 1 1 0 0
+ 1 0 1 0 0 0 1 1 1 0
+ 1 0 1 1 0 0 1 1 0 0
+ 1 0 0 0 0 0 1 1 0 1
+ 1 0 1 0 1 0 1 1 0 0
+ 1 0 1 0 1 0 1 0 0 1
+ 1 0 0 1 1 0 0 1 0 1
+end
+hull
